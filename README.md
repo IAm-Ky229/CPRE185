@@ -24,3 +24,6 @@ Take in command line arguments and analyze the "average" values of the gyroscope
 
 ###### Lab 8
 Create a maze in terminal of varying difficulty depending on command line arguments. Use the gyroscope sensors on the DS4 controller to navigate through the maze (tilting left moves left, tilting right moves right, etc).
+
+###### Lab 9
+Two part lab. Create a program that reads in a list of words from a .txt document. Once the program has obtained the words, use the DS4 controller to print out the words. Be able to move a cursor around to each word, and press a button to print it. The end goal was to be able to make a kind of sentence.
