@@ -9,3 +9,6 @@ Looked at difference between operations regarding floats, doubles, and integers.
 
 ###### Lab 3
 Start to work with the sensors on the DS4. Find acceleration of the controller when it is dropped. Also detect how many buttons are currently being pressed.
+
+###### Lab 4
+Detemine the orientation of the DS4 controller (up, down, front, right, left, backwards facing) by using the accelerometer and gyroscope sensors.
