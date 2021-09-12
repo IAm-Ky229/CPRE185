@@ -6,3 +6,6 @@ Didn't really do anything in this lab. Just ran the executable that the professo
 
 ###### Lab 2
 Looked at difference between operations regarding floats, doubles, and integers. Also create a program that takes a user input and finds the volume of a 3D prism.
+
+###### Lab 3
+Start to work with the sensors on the DS4. Find acceleration of the controller when it is dropped. Also detect how many buttons are currently being pressed.
