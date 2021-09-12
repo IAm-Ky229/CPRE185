@@ -15,3 +15,6 @@ Detemine the orientation of the DS4 controller (up, down, front, right, left, ba
 
 ###### Lab 5
 Use the speed of gravity to determine how far a controller falls after a certain period of time. Compensate for air resistance to obtain a more accurate fall distance.
+
+###### Lab 6
+Use the gyroscope sensors to determine how far the DS4 controller was turned right and left. Print out a user-friendly graph on the screen that shows how far "tilted" the controller is.
