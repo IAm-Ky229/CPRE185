@@ -12,3 +12,6 @@ Start to work with the sensors on the DS4. Find acceleration of the controller w
 
 ###### Lab 4
 Detemine the orientation of the DS4 controller (up, down, front, right, left, backwards facing) by using the accelerometer and gyroscope sensors.
+
+###### Lab 5
+Use the speed of gravity to determine how far a controller falls after a certain period of time. Compensate for air resistance to obtain a more accurate fall distance.
