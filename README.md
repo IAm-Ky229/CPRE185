@@ -23,4 +23,4 @@ Use the gyroscope sensors to determine how far the DS4 controller was turned rig
 Take in command line arguments and analyze the "average" values of the gyroscope sensors over a period of time. Create a buffer that continually takes in new gyroscope values to analyze.
 
 ###### Lab 8
-Create a maze of varying difficulty depending on command line arguments. Use the gyroscope sensors on the DS4 controller to navigate through the maze (tilting left moves left, tilting right moves right, etc).
+Create a maze in terminal of varying difficulty depending on command line arguments. Use the gyroscope sensors on the DS4 controller to navigate through the maze (tilting left moves left, tilting right moves right, etc).
