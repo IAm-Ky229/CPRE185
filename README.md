@@ -1,4 +1,4 @@
-# CPRE 185
+# CPRE 185 (Fall 2018)
 This was an introductory C programming course. Solving some simpler problems in C helped to prepare me for the more challenging courses I would be taking in the future. The labs largely revolved around taking sensor readings from a Playstation 4 (DS4) controller.
 
 ###### Lab 1
